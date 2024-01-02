@@ -1,0 +1,371 @@
+Hello Aishwarya
+
+aishwarya@DESKTOP-88R06PB MINGW64 ~
+$ source ~/.bashrc
+root_folder:
+total 24
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ./
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ../
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:33 month1/
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 month2/
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 month4/
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 month5/
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 month6/
+
+root_folder/month1:
+total 0
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:33 ./
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ../
+-rw-r--r-- 1 aishwarya 197121 0 Jan  2 14:33 week1.txt
+-rw-r--r-- 1 aishwarya 197121 0 Jan  2 14:33 week2.txt
+
+root_folder/month2:
+total 0
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ./
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ../
+-rw-r--r-- 1 aishwarya 197121 0 Jan  2 14:33 week1.txt
+
+root_folder/month4:
+total 0
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ./
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ../
+-rw-r--r-- 1 aishwarya 197121 0 Jan  2 14:33 week2.txt
+
+root_folder/month5:
+total 1
+drwxr-xr-x 1 aishwarya 197121  0 Jan  2 14:32 ./
+drwxr-xr-x 1 aishwarya 197121  0 Jan  2 14:32 ../
+-rw-r--r-- 1 aishwarya 197121 10 Jan  2 14:33 Thankyou.txt
+
+root_folder/month6:
+total 1
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ./
+drwxr-xr-x 1 aishwarya 197121 0 Jan  2 14:32 ../
+-rw-r--r-- 1 aishwarya 197121 8 Jan  2 14:32 helloworld.java
+rm: cannot remove 'root_folder/month12': No such file or directory
+month1/
+month2/
+month4/
+month5/
+month6/
+
+aishwarya@DESKTOP-88R06PB MINGW64 ~/root_folder
+$ history
+    1  git
+    2  nvm -v
+    3  nvm list
+    4  nvm use 8.9.4
+    5  cd C
+    6  cd C:
+    7  cd Users/AMAR\ POWAR/AppData/Roaming/nvm/
+    8  nvm use 8.9.4
+    9  cd D:
+   10  cd Rotimatic_Project/
+   11  git clone https://amarpowar12@bitbucket.org/rmsteam1/rt-e-commerce-2.0-admin-api.git
+   12  ls
+   13  cd rt-e-commerce-2.0-admin-api/
+   14  git branch
+   15  git checkout develop
+   16  git checkout release-uat
+   17  git branches
+   18  git checkout release-prod
+   19  cd..
+   20  cd.
+   21  git clone https://amarpowar12@bitbucket.org/rmsteam1/rt-e-commerce-2.0-admin-ui.git
+   22  git clone https://amarpowar12@bitbucket.org/rmsteam1/woo-com-migration-engine.git
+   23  cd rt-e-commerce-2.0-admin-ui/
+   24  git checkout develop
+   25  git checkout release-uat
+   26  cd ..
+   27  git clone https://amarpowar12@bitbucket.org/rmsteam1/rt-e-commerce-2.0-admin-ui.git
+   28  git checkout develop
+   29  git checkout  release-uat
+   30  git clone https://amarpowar12@bitbucket.org/rmsteam1/rt-e-commerce-2.0-admin-ui.git -b develop
+   31  git clone https://amarpowar12@bitbucket.org/rmsteam1/rt-e-commerce-2.0-admin-ui.git -b release-uat
+   32  git chekout -f HEAD
+   33  git checkout -f HEAD
+   34  git checkout develop
+   35  git clone https://amarpowar12@bitbucket.org/rmsteam1/rt-e-commerce-2.0-admin-ui.git
+   36  cd rt-e-commerce-2.0-admin-ui/
+   37  git branch
+   38  git branch
+   39  git checkout release-uat
+   40  git pull
+   41  npm start
+   42  git fecth
+   43  git clone https://github.com/AmarPowar/Kaizen.git
+   44  git checkout -b dev
+   45  cd Kaizen/
+   46  git checkout -b dev
+   47  npm install
+   48  npm install
+   49  git clone https://shivam-perpetualny@bitbucket.org/biproxi/biproxi-node.git
+   50  ls
+   51  cd biproxi-node/
+   52  npm install
+   53  npm install -g express-generator
+   54  express API
+   55  express practise_Api
+   56  cd practise_Api/
+   57  npm install
+   58  npm start
+   59  npm start
+   60  npm start
+   61  npm start
+   62  npm start
+   63  npm start
+   64  npm start
+   65  nvm -v
+   66  nvm on
+   67  npm start
+   68  node -v
+   69  nvm use
+   70  nvm list
+   71  sudo ssh -N -L 1234:biproxi.calx8ytisv5o.us-east-2.rds.amazonaws.com:3306 ubuntu@18.221.72.72 -i biproxy-dev.pem
+   72  ssh -N -L 1234:biproxi.calx8ytisv5o.us-east-2.rds.amazonaws.com:3306 ubuntu@18.221.72.72 -i biproxy-dev.pem
+   73  sudo ssh -N -L 1234:biproxi.calx8ytisv5o.us-east-2.rds.amazonaws.com:3306 ubuntu@18.221.72.72 -i biproxy-dev.pem
+   74  ssh -N -L 1234:biproxi.calx8ytisv5o.us-east-2.rds.amazonaws.com:3306 ubuntu@18.221.72.72 -i biproxy-dev.pem
+   75  sudo ssh -N -L 1234:biproxi.calx8ytisv5o.us-east-2.rds.amazonaws.com:3306 ubuntu@18.221.72.72 -i biproxy-dev.pem
+   76  ssh -N -L 1234:biproxi.calx8ytisv5o.us-east-2.rds.amazonaws.com:3306 ubuntu@18.221.72.72 -i biproxy-dev.pem
+   77  ng new coditasAssignment
+   78  ng update @angular/cli
+   79  cd D:\rentingProject
+   80  git init
+   81  git status
+   82  git add .
+   83  git commit -m "initial code commit"
+   84  git remote  add origin https://github.com/AmarPowar/RentingItems.git
+   85  git push origin -u master
+   86  git clone https://github.com/relayr/node-compression.git
+   87  #!/bin/sh
+   88  echo 'Testing started ..'
+   89  echo 'Hold on for one or two minutes'
+   90  node ./receiver/index > received_event_stream.log & RECEIVER_PID=$!
+   91  cat sample_event_stream.log | node ./sender/index
+   92  kill -15 $RECEIVER_PID
+   93  sort sample_event_stream.log > sample_event_stream.log.sort
+   94  sort received_event_stream.log  > received_event_stream.log.sort
+   95  DIFF=$(diff received_event_stream.log.sort sample_event_stream.log.sort)
+   96  if [ -z "$DIFF" ];   then   echo 'Well done. All events are successfully transferred.';   else   echo 'Failed, the received event dump does not match the sample input!'; fi
+   97  git fetch
+   98  git pull origin master
+   99  git pull origin  master
+  100  list disk
+  101  #!/bin/sh
+  102  echo 'Testing started ..'
+  103  echo 'Hold on for one or two minutes'
+  104  node ./receiver/index > received_event_stream.log & RECEIVER_PID=$!
+  105  cat sample_event_stream.log | node ./sender/index
+  106  kill -15 $RECEIVER_PID
+  107  sort sample_event_stream.log > sample_event_stream.log.sort
+  108  sort received_event_stream.log  > received_event_stream.log.sort
+  109  DIFF=$(diff received_event_stream.log.sort sample_event_stream.log.sort)
+  110  if [ -z "$DIFF" ];   then   echo 'Well done. All events are successfully transferred.';   else   echo 'Failed, the received event dump does not match the sample input!'; fi
+  111  #!/bin/sh
+  112  echo 'Testing started ..'
+  113  echo 'Hold on for one or two minutes'
+  114  node ./receiver/index > received_event_stream.log & RECEIVER_PID=$!
+  115  cat sample_event_stream.log | node ./sender/index
+  116  kill -15 $RECEIVER_PID
+  117  sort sample_event_stream.log > sample_event_stream.log.sort
+  118  sort received_event_stream.log  > received_event_stream.log.sort
+  119  DIFF=$(diff received_event_stream.log.sort sample_event_stream.log.sort)
+  120  if [ -z "$DIFF" ];   then   echo 'Well done. All events are successfully transferred.';   else   echo 'Failed, the received event dump does not match the sample input!'; fi
+  121  git init
+  122  cd sender
+  123  npm start
+  124  npm i socket.io-client --save
+  125  npm start
+  126  npm start
+  127  npm start
+  128  npm start
+  129  npm start
+  130  npm start
+  131  npm start
+  132  npm start
+  133  npm start
+  134  npm start
+  135  npm start
+  136  npm start
+  137  npm start
+  138  cd ..
+  139  git status
+  140  git checkout -b feat/transmit_data_to_server
+  141  git commit -m "intial commit for tarnsmit reading functionality"
+  142  git add .
+  143  git commit -m "intial commit for tarnsmit reading functionality"
+  144  git status
+  145  git push origin -u feat/transmit_data_to_server
+  146  git checkout master
+  147  git status
+  148  git checkout feat/transmit_data_to_server
+  149  ls
+  150  test.sh
+  151  cd sender/
+  152  npm start
+  153  npm i
+  154  npm start
+  155  git push origin -u feat/transmit_data_to_server
+  156  git remote -v
+  157  git push origin  feat/transmit_data_to_server
+  158  git checkout master
+  159  cd ..
+  160  git checkout feat/transmit_data_to_server
+  161  git status
+  162  git add .
+  163  git commit -m "initial code commit"
+  164  git remote add origin https://github.com/AmarPowar/transmitReading.git
+  165  git push origin -u master
+  166  git push origin -u master
+  167  git push origin -u master
+  168  git remote -v
+  169  git status
+  170  git push master
+  171  git push origin master
+  172  npm start
+  173  /server/
+  174  npm start
+  175  /server/
+  176  npm start
+  177  ../server
+  178  npm start
+  179  #!/usr/bin/node
+  180  npm start
+  181  #!/usr/bin/node
+  182  ../server
+  183  npm start
+  184  #!/bin/sh
+  185  /server
+  186  npm start
+  187  ls
+  188  cd D:
+  189  ls
+  190  cd Project_BackUP/
+  191   PrintHood@
+  192   NTUSER.DAT{d14e8d63-70a7-11ec-bef2-a9742a9e8314}.TMContainer00000000000000000001.regtrans-ms
+  193  AMAR POWAR@DESKTOP-88R06PB MINGW64 ~
+  194  $ ls
+  195  '3D Objects'/
+  196   AppData/
+  197  'Application Data'@
+  198  'Cisco Packet Tracer 7.3.1'/
+  199   Contacts/
+  200   Cookies@
+  201   Desktop/
+  202   Documents/
+  203   Downloads/
+  204   Favorites/
+  205   IBA_IOAPDATA/
+  206  git clone git@bitbucket.org:agylelabs/agyle-docker.git
+  207  ls
+  208  pwd
+  209  ls
+  210  cd
+  211  cd..
+  212  cd ..
+  213  pwd
+  214  pwd
+  215  cd 2015
+  216  pwd
+  217  cd
+  218  cd ..
+  219  pwd
+  220  cd jan
+  221  cd
+  222  pwd
+  223  cd /home
+  224  /home
+  225  mkdir tv
+  226  pwd                                                                           $ pwd
+  227  cd tv
+  228  pwd
+  229  ls
+  230  2014 2015 hardware.txt
+  231  ls
+  232  nano.bash_profile
+  233  echo "Hello"
+  234  source .bash_profile
+  235  nano.bash_profile
+  236  nano .bash_profile
+  237  route
+  238  pwd
+  239  route
+  240  nano .bash_profile
+  241  export USER="Aishwarya"
+  242  echo .bash_profile
+  243  echo $USER
+  244  nano .bash_profile
+  245  source .bash_profile
+  246  echo $USER
+  247  echo $USER
+  248  nano .bash_profile
+  249  source .bash_profile
+  250  $ nano .bash_profile
+  251   nano .bash_profile
+  252   nano .bash_profile
+  253   source .bash_profile
+  254   cd
+  255  pwd
+  256   pwd
+  257  # 1. List all the files including hidden in detailed view
+  258  ls -la
+  259  # 2. Remove week1.txt from month2
+  260  rm month2/week1.txt
+  261  # 3. Copy week2.txt from month1 to month4
+  262  cp month1/week2.txt month4/
+  263  # 4. Remove month12
+  264  rm -r month12
+  265  # 5. Using echo, create a file named "Thankyou.txt" in month5
+  266  echo "Thank you!" > month5/Thankyou.txt
+  267  # 6. Using nano editor, create a "helloworld.java" file in month6
+  268  nano month6/helloworld.java
+  269   mkdir -p month1 month2 month3 month4 month5 month6
+  270  touch month1/week1.txt month1/week2.txt
+  271  touch month2/week1.txt month2/week2.txt
+  272  touch month3/week1.txt month3/week2.txt
+  273  touch month4/week1.txt month4/week2.txt
+  274  touch month5/week1.txt month5/week2.txt
+  275  touch month6/week1.txt month6/week2.txt
+  276   ls-laR
+  277   mkdir -p month1 month2 month3 month4 month5 month6
+  278   touch month1/week1.txt month1/week2.txt
+  279   touch month2/week1.txt month2/week2.txt
+  280   touch month3/week1.txt month3/week2.txt
+  281   touch month4/week1.txt month4/week2.txt
+  282   touch month5/week1.txt month5/week2.txt
+  283   touch month6/week1.txt month6/week2.txt
+  284   ls -laR
+  285   nano .bash_profile
+  286   nano .bash_profile
+  287   nano ,bash_profile
+  288   ls
+  289  $ rm
+  290   ls -laR root_folder
+  291   ls -laR root_folder
+  292   ls -laR root_folder
+  293   rm root_folder/month2/week1.txt
+  294   nano .bash_profile
+  295   source .bash_profile
+  296   nano .bash_profile
+  297   source .bash_profile
+  298  mkdir
+  299  touch
+  300  ls
+  301  rm
+  302  ls -laR root_folder
+  303  rm rooot_folder/month2/week1.txt
+  304  cp root_folder/month1/week2.txt root_folder/month4/
+  305  rm -r root_folder/month12
+  306  echo "Thank you" > root_folder/month5/Thankyou.txt
+  307  nano root_folder/month6/helloworld.java
+  308  cd root_folder
+  309  ls -l | grep '^d' | awk '{print $9}' | sort
+  310  mv month1/week1.txt month2/
+  311  nano ~/.bashrc
+  312  source ~/.bashrc
+  313  history
+  314  source ~/.bashrc
+  315  history
+
+aishwarya@DESKTOP-88R06PB MINGW64 ~/root_folder
+
